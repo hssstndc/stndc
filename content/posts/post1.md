@@ -1,7 +1,10 @@
 ---
-title: "My First Post"
-date: 2023-05-15T20:58:33+02:00
-draft: true
+images: 
+- /images/logo.jpg
+title: First post
+draft: false
+tags:
+- work
 ---
 
 ## Introduction
