@@ -1,14 +1,10 @@
 ---
-images: 
-- /images/logo.jpg
-title: First post
-draft: false
-tags:
-- work
----
+images:
+title: Sound Forest Time Machine
+desc:
+- Eternity is a minimalist Hugo theme
+- designed for portfolio sites with a fresh feel.
+--- 
 
-## Introduction
+### Fisrt post
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
