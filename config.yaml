@@ -1,11 +1,11 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: hstndc # todo: change site name.
+baseURL: https://www.stndc.com/ # todo: change site url.
+title: stndc # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
+  image: /images/jun22_007.jpg
   logo: logo.png # todo: add your custom logo to static/
   subtitle: My portfolio site # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
@@ -22,11 +22,14 @@ params:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:helenalinmi@gmail.com'
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/hssstndc'
-      landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/helenstndc/'
+      landing: true
+    - icon: 'fab fa-bandcamp fa-lg'
+      url: 'https://helenalinder.bandcamp.com/'
+      landing: true
+    - icon: 'fab fa-github fa-lg'
+      url: 'https://github.com/hssstndc'
       landing: true
   # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
