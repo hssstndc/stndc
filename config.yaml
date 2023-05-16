@@ -31,11 +31,11 @@ params:
     - icon: 'fab fa-github fa-lg'
       url: 'https://github.com/hssstndc'
       landing: true
-  # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableWelcomePageBackground: true # disables the background image on the homepage
   disableRadius: false
@@ -53,6 +53,15 @@ taxonomies:
 
 permalinks:
   work: ":filename/"
+
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: about
+      url: /about/
+      weight: 5
 
 # todo: uncomment menu.main array after you create contents.
 # menu:
