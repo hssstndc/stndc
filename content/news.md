@@ -1,6 +1,6 @@
 ---
-title: about
-url: about
+title: news
+url: news
 hideTitle: true
 hideExif: true
 hideDate: true
