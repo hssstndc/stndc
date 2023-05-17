@@ -59,9 +59,6 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: news
-      url: /news/
-      weight: 2
     - name: about
       url: /about/
       weight: 3

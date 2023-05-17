@@ -6,4 +6,4 @@ hideExif: true
 hideDate: true
 ---
 
-Master's student in Interactive Media Technology
+Helena Linder is a master's student in Interactive Media Technology at KTH focusing on sound and music computing. 
